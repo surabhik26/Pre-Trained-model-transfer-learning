@@ -21,6 +21,11 @@ To run the code in this project, you need:
 - Matplotlib
 - Jupyter Notebook
 
+## Dataset
+
+The dataset used in this notebook is: **UEH-VDR (Vietnamese Dish Recognition Dataset)**  
+https://www.kaggle.com/datasets/truthtaicom/uehvdr-dataset
+
 ## Project Overview
 
 The notebook includes:
